@@ -39,3 +39,12 @@ store data into pandas data frame, and perform some text preprocessing on descri
 - build the machine learning models
 - evaluate each model on testing set
 - choose the best model based on performance
+
+## Difficulties in this project
+
+- to gether the data from API
+- after gathering the JSON data converting it into pandas dataframe
+- performing the text preprocessing
+- storing the data preprocessed into sql table
+- retreving the sql table data into dataframe to build models
+- evaluting the ML models
